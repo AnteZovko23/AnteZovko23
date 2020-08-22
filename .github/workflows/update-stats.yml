@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
+    # Runs at 06:00AM UTC Every Monday
     - cron: "0 6 * * Mon"
 
 jobs:
