@@ -68,15 +68,7 @@
 <br>
 <br>
 
-<h1 align="center">About the Repository:</h1>
-
-## Content Info: 
-- University Assignments (Java, Python)
-
-- Internship Projects (RestAPI-Node.js-PHP-MySQL, RestAPI-Go-MySQL, gRPC-Java-SpringBoot)
-  
-- Courses from Udemy.com (Projects-Online-Courses)
-
+<h1 align="center">About the Account:</h1>
 
 <br>
 
@@ -100,7 +92,6 @@
 <br>
 <br>
 
-<h1 align="center">About the Account:</h1>
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
