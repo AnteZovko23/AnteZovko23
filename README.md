@@ -73,13 +73,9 @@
 ## Content Info: 
 - University Assignments (Java, Python)
 
-- Internship Projects (BettingAPIv2, gRPC-Java-SpringBoot)
-
-- Carpe Noctem Project under "Releases" Tab (Download .jar file and use this command: "java -jar \<name-of-the-jar-file>\")
+- Internship Projects (RestAPI-Node.js-PHP-MySQL, RestAPI-Go-MySQL, gRPC-Java-SpringBoot)
   
-- Courses from Udemy.com (Web Development)
-
-- <b>Disclaimer: This repository should under no circumstances be used for cheating on assignments.</b>
+- Courses from Udemy.com (Projects-Online-Courses)
 
 
 <br>
