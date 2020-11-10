@@ -36,7 +36,7 @@
 <br>
 
 ## Skills: 💻
-- Java/Go 
+- Java/Go/C
 - Python/PHP/JavaScript
 - Node.js/Spring Framework/Maven 
 - HTML/CSS/Bootstrap
