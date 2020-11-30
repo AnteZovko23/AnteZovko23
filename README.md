@@ -96,8 +96,6 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 255 Contributions in the Year 2020
- > 
 > 📦 89.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
@@ -135,18 +133,16 @@ Sunday       58 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sarajevo
 
 💬 Programming Languages: 
-C                        40 mins             ██████████████░░░░░░░░░░░   55.98% 
-Java                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51% 
-Bash                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.51%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-University Assignments an1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -163,7 +159,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/AnteZovko23/AnteZovko23/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/AnteZovko23/AnteZovko23/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
