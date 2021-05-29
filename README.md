@@ -32,7 +32,7 @@
 - Interested in Backend Software Engineering</h4>
 - Background in data processing, REST API/RPC development, and backend application design
 - Offering <b>Pro Bono (Free of Charge)</b> tutoring (online or in-person) 
-- My newest project: <a href="sortdetective.com"><b>Sort Detective</b></a>
+- My newest project: <a target="_blank" href="www.sortdetective.com">Sort Detective</a>
 
 <br>
 
