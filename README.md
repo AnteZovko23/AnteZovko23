@@ -136,16 +136,17 @@ Sunday       38 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sarajevo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     5 hrs               ██████████████████████░░░   88.9% 
+CSS                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.1%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 37 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+University Assignments an5 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -165,7 +166,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnteZovko23/AnteZovko23/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2021
+ Last Updated on 20/09/2021
 <!--END_SECTION:waka-->
 
 
