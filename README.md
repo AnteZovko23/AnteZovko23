@@ -136,22 +136,16 @@ Sunday       37 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sarajevo
 
 💬 Programming Languages: 
-Java                     23 hrs 12 mins      ████████████████████████░   98.0% 
-XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 23 hrs 35 mins      █████████████████████████   99.6% 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Othello                  23 hrs 28 mins      ████████████████████████░   99.16% 
-CS475-Artificial Intellig6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
-Project1                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 hrs 40 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -171,7 +165,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnteZovko23/AnteZovko23/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 29/11/2021
 <!--END_SECTION:waka-->
 
 
