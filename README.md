@@ -105,7 +105,7 @@
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -136,16 +136,17 @@ Sunday       37 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sarajevo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 36 mins       █████████████████████████   99.86% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 37 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+University Assignments an3 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -165,7 +166,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnteZovko23/AnteZovko23/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 
