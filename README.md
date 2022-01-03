@@ -97,7 +97,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 88 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 265.3 kB Used in GitHub's Storage 
  > 
@@ -136,16 +136,16 @@ Sunday       37 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sarajevo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+University Assignments an0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -165,7 +165,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnteZovko23/AnteZovko23/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 
 
