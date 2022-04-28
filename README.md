@@ -11,9 +11,6 @@
  <a href="https://www.linkedin.com/in/antezovko/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-Blue?style=for-the-badge&logo=LinkedIn" />
     </a>
-   <a href="https://www.instagram.com/zovkoante23/">
-      <img alt="GMAIL" src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" />
-    </a>
    <a href="https://www.facebook.com/ZovkoAntee/">
       <img alt="GMAIL" src="https://img.shields.io/badge/Facebook-Add%20Friend-darkblue?style=for-the-badge&logo=Facebook&logoColor=white" />
     </a>
@@ -29,21 +26,30 @@
 <br>
 
 ## I am a Computer Science major (3.8 GPA) currently attending Louisiana Tech University
-- Interested in Backend Software Engineering</h4>
-- Background in data processing, REST API/RPC development, and backend application design
-- Offering <b>Pro Bono (Free of Charge)</b> tutoring (online or in-person) 
-- My newest project: <a target="_blank" href="https://www.sortdetective.com"><b>Sort Detective</b></a>
+  - Interested in artificial intelligence and machine learning. The main area of research that I want to focus on is computer vision. 
+
+  - Experience with various Machine Learning algorithms including Neural Networks, Decision Trees, KNN, and SVM as well as tree searching algorithms like A* Pathfinder and Mini-Max.
+
+  - Various projects in Python, Java, and C.
+
+   - Also interested in data processing and back-end application design.
 
 <br>
 
 ## Skills: 💻
 - Java/Go/C
 - Python/PHP/JavaScript
+- Tensorflow/Keras/PyTorch
+- Computer Vision/OpenCV/Object
+Detection
+- Computer Graphics/Unreal Engine
 - Node.js/Spring Framework/Maven 
 - HTML/CSS/Bootstrap
 - REST API/gRPC API 
 - JSON/Protocol Buffers
 - Linux 
+- Microelectronics/Circuit Design
+and Analysis
 - Raspberry PI/Microelectronics
 - Relational Databases/MySQL 
 - Version Control/Git
@@ -54,7 +60,7 @@
 <br>
 
 ## I am currently listening to: 🎧
-[<img src="https://novatorem-teal.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500"/>](https://open.spotify.com/playlist/3Mo6ZdjhTCgj5o8CHs9q2I?si=xs8bzdcrSY2ld5fqCLj04Q)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u06dtc9h3le4tq61m3x12o9uh&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
