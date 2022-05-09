@@ -101,11 +101,13 @@ and Analysis
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 81 Contributions in the Year 2022
  > 
-> 📦 294.5 kB Used in GitHub's Storage 
+> 📦 294.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -142,16 +144,18 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Sarajevo
 
 💬 Programming Languages: 
-Python                   30 mins             █████████████████████████   100.0%
+Python                   18 mins             ████████████████████████░   99.24% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+VS Code                  18 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Senior-Design_Vault-Appli30 mins             █████████████████████████   100.0%
+Senior-Design_Vault-Appli18 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.0%
+Linux                    18 mins             █████████████████████████   100.0%
 
 ```
 
@@ -172,7 +176,7 @@ PureBasic                1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnteZovko23/AnteZovko23/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/05/2022 06:31:28 UTC
+ Last Updated on 09/05/2022 06:31:47 UTC
 <!--END_SECTION:waka-->
 
 
